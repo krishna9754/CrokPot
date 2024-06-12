@@ -1,5 +1,4 @@
 import React from 'react'
-import Navbar from './otherSection/Navbar';
 import Hero from '../home/heroSection/Hero';
 import ImageCard from './imageCard/ImageCard';
 import Offer from './otherSection/Offer';
@@ -8,21 +7,18 @@ import OurHistory from './otherSection/OurHistory';
 import NewArrival from './newArival/NewArrival';
 import OurBlog from './otherSection/OurBlog';
 import Signup from './AUTH/Signup';
-import Fotter from './fotter/Fotter';
 
 function Home() {
     return (
         <div>
-            <Navbar />
             <Hero />
             <ImageCard />
             <Offer />
-            <BestSeller />
+            {/* <BestSeller /> */}
             <OurHistory />
-            <NewArrival />
+            {/* <NewArrival /> */}
             <OurBlog />
             <Signup />
-            <Fotter />
         </div>
     )
 }
