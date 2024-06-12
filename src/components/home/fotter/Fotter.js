@@ -7,11 +7,13 @@ function Fotter() {
         <div className='w-full bg-black grid justify-center'>
             <div className='lg:flex lg:justify-evenly text-center border-b-2 lg:border-white pb-10'>
                 <div className='lg:border-r-2 border-white lg:pr-10 grid ml-10'>
-                    <img className='w-32 h-auto mt-10' src={logo} alt='logo' />
+                    <div className='w-64 flex justify-center'>
+                        <img className='w-32 h-auto mt-10' src={logo} alt='logo' />
+                    </div>
                     <p className='font-light text-white w-64 my-4'>Lorem Ipsum is simply dummy text of the printing and typesetting industry</p>
                     <button className='custom-btn btn-1'>GET STARTED</button>
                 </div>
-                <div className='gap-32 flex flex-wrap justify-start ml-10 lg:ml-6 lg:gap-28 mt-14 text-center '>
+                <div className='gap-32 flex flex-wrap justify-center md:justify-start md:mx-6 lg:gap-28 mt-14 text-center '>
                     <div className='text-white'>
                         <h2 className='mb-3'>ABOUT US</h2>
                         <p className='font-thin mb-2'>Mission</p>

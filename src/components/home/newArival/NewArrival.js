@@ -5,7 +5,7 @@ import AddCart from '../button/AddCart'
 
 function NewArrival() {
     const newProduct = useSelector((state) => state.allProduct.Product.categories[1])
-    // console.log(newProduct);
+    console.log(newProduct);
 
     return (
         <div className='my-4'>

@@ -40,9 +40,9 @@ function Navbar() {
                 {/* Mobile View */}
                 <div className={`sm:hidden ${isMobileMenuOpen ? 'block' : 'hidden'}`} id="mobile-menu">
                     <div className='space-y-1 px-2 pb-3 pt-2 text-center'>
-                        <a href="#" className='block rounded-md px-3 py-2 text-base font-thin hover:bg-orange-400 hover:text-white'>Home</a>
+                        <a href="/" className='block rounded-md px-3 py-2 text-base font-thin hover:bg-orange-400 hover:text-white'>Home</a>
                         <a href="/shop" className='block rounded-md px-3 py-2 text-base font-thin hover:bg-orange-400 hover:text-white'>Shop</a>
-                        <a href="/abou" className='block rounded-md px-3 py-2 text-base font-thin hover:bg-orange-400 hover:text-white'>About</a>
+                        <a href="/about" className='block rounded-md px-3 py-2 text-base font-thin hover:bg-orange-400 hover:text-white'>About</a>
                         <a href="/contact" className='block rounded-md px-3 py-2 text-base font-thin hover:bg-orange-400 hover:text-white'>Contact</a>
                     </div>
                 </div>

@@ -5,8 +5,8 @@ import { setProducts } from '../../action/Index'
 import AddCart from '../button/AddCart'
 
 function BestSeller() {
-
-    const productAll = useSelector((state) => state.allProduct.Product.categories[0])
+    const item = 0
+    const productAll = useSelector((state) => state.allProduct.Product.categories[item])
     const dispatch = useDispatch()
 
     useEffect(() => {
@@ -18,7 +18,7 @@ function BestSeller() {
             <h1 className='my-4 font-serif text-4xl w-full text-center'>BEST SELLERS</h1>
             <div className='flex flex-wrap justify-evenly'>
                 {
-                    productAll.items.map((productItem, id) => {
+                    productAll.items.slice(0, 8).map((productItem, id) => {
                         return (
                             <div key={id} className='flex px-8 w-full sm:w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/5 flex-col items-center p-4'>
                                 <img className='h-80 w-64 rounded-md object-cover' src={productItem.image} alt={productItem.name} />

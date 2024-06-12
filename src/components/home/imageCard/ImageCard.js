@@ -1,6 +1,5 @@
 import React from 'react';
 import './imageCard.css'; // Assuming you have custom styles
-import Image1 from '../image/image1.png';
 
 const data = [
     {
@@ -29,7 +28,7 @@ function ImageCard() {
                     return (
                         <div key={index} className="card m-4 w-full sm:w-1/2 md:w-1/3 lg:w-1/4">
                             <div className="card-img">
-                                <img className='h-72 w-full object-cover' src={item.image} alt={item.name} />
+                                <img className='h-72 object-cover' src={item.image} alt={item.name} />
                             </div>
                             <div className="card-info text-center mt-4">
                                 <p className="title text-lg font-semibold">{item.name}</p>

@@ -14,9 +14,9 @@ function Home() {
             <Hero />
             <ImageCard />
             <Offer />
-            {/* <BestSeller /> */}
+            <BestSeller />
             <OurHistory />
-            {/* <NewArrival /> */}
+            <NewArrival />
             <OurBlog />
             <Signup />
         </div>
