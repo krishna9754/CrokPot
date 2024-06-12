@@ -1,0 +1,164 @@
+{
+    "categories": [
+        {
+            "category": "Best Seller",
+            "items": [
+                {
+                    "name": "Elegant Dinner Set",
+                    "image": "https://images.urbndata.com/is/image/Anthropologie/90057787_010_b16?$an-category$&qlt=80&fit=constrain",
+                    "description": "A beautiful dinner set perfect for any occasion.",
+                    "price": 49.99
+                },
+                {
+                    "name": "Classic Wine Glasses",
+                    "image": "https://i.etsystatic.com/9210908/r/il/2dc92a/4131296836/il_600x600.4131296836_keg7.jpg",
+                    "description": "Set of 6 classic wine glasses.",
+                    "price": 29.99
+                },
+                {
+                    "name": "Modern Cutlery Set",
+                    "image": "https://images-na.ssl-images-amazon.com/images/I/81hsWtWgJiL.jpg",
+                    "description": "Stainless steel cutlery set for 4.",
+                    "price": 39.99
+                },
+                {
+                    "name": "Ceramic Serving Bowl",
+                    "image": "https://images-na.ssl-images-amazon.com/images/I/8176a9xbSQL.jpg",
+                    "description": "Large ceramic serving bowl.",
+                    "price": 24.99
+                },
+                {
+                    "name": "Fancy Tea Set",
+                    "image": "https://images-na.ssl-images-amazon.com/images/I/91SWTgYxJtL.jpg",
+                    "description": "Elegant tea set with teapot and cups.",
+                    "price": 34.99
+                },
+                {
+                    "name": "Glass Pitcher",
+                    "image": "https://images-na.ssl-images-amazon.com/images/I/81b1lPPWysL.jpg",
+                    "description": "Large glass pitcher for drinks.",
+                    "price": 19.99
+                },
+                {
+                    "name": "Porcelain Plates",
+                    "image": "https://m.media-amazon.com/images/I/41G33hKUL5L.jpg",
+                    "description": "Set of 4 porcelain dinner plates.",
+                    "price": 27.99
+                },
+                {
+                    "name": "Stylish Salad Bowl",
+                    "image": "https://images-na.ssl-images-amazon.com/images/I/71EQfpG+RSL.jpg",
+                    "description": "Modern design salad bowl.",
+                    "price": 21.99
+                },
+                {
+                    "name": "Chic Coffee Mugs",
+                    "image": "https://rukminim1.flixcart.com/image/612/612/xif0q/plate-tray-dish/k/k/g/dessert-plate-set-6-quarter-plate-kitchen-classico-original-imaghvvydhnykvgk.jpeg?q=70",
+                    "description": "Set of 4 chic coffee mugs.",
+                    "price": 18.99
+                },
+                {
+                    "name": "Decorative Serving Tray",
+                    "image": "https://images-na.ssl-images-amazon.com/images/I/71PAIOcO0HL.jpg",
+                    "description": "Wooden serving tray with handles.",
+                    "price": 31.99
+                }
+            ]
+        },
+        {
+            "category": "New Arrivals",
+            "items": [
+                {
+                    "name": "Minimalist Dinner Plates",
+                    "image": "https://m.media-amazon.com/images/I/61-hgBKRvVS.jpg",
+                    "description": "Set of 4 minimalist design dinner plates.",
+                    "price": 22.99
+                },
+                {
+                    "name": "Vintage Tea Cups",
+                    "image": "https://corelle.com/cdn/shop/products/cor_adyln_lp_1128115.webp?v=1710287336&width=460",
+                    "description": "Set of 6 vintage tea cups.",
+                    "price": 26.99
+                },
+                {
+                    "name": "Bamboo Cutting Board",
+                    "image": "https://cdn.thewirecutter.com/wp-content/media/2023/05/dinnerware-2048px-0083.jpg?auto=webp&quality=75&width=1024",
+                    "description": "Eco-friendly bamboo cutting board.",
+                    "price": 14.99
+                },
+                {
+                    "name": "Crystal Water Glasses",
+                    "image": "https://nypost.com/wp-content/uploads/sites/2/2022/03/Gibson.jpg?quality=90&strip=all&w=1024",
+                    "description": "Set of 6 crystal water glasses.",
+                    "price": 32.99
+                },
+                {
+                    "name": "Elegant Dessert Plates",
+                    "image": "https://www.briscoes.co.nz/contentassets/18a6f07b2a9d4282bff8b362a1b0afd1/dinnerware-home-tile.jpg",
+                    "description": "Set of 4 elegant dessert plates.",
+                    "price": 23.99
+                },
+                {
+                    "name": "Rustic Serving Platter",
+                    "image": "https://assets.weimgs.com/weimgs/rk/images/wcm/products/202317/0139/heather-taylor-home-gingham-dinner-plate-set-of-4-m.jpg",
+                    "description": "Large rustic serving platter.",
+                    "price": 29.99
+                },
+                {
+                    "name": "Glass Storage Jars",
+                    "image": "https://nypost.com/wp-content/uploads/sites/2/2022/06/Untitled-2000-x-1333-px-2023-10-13T094417.391.jpg?w=1024",
+                    "description": "Set of 3 glass storage jars.",
+                    "price": 19.99
+                },
+                {
+                    "name": "Colorful Bowls",
+                    "image": "https://images.urbndata.com/is/image/Anthropologie/90057787_010_b16?$an-category$&qlt=80&fit=constrain",
+                    "description": "Set of 4 colorful bowls.",
+                    "price": 24.99
+                },
+                {
+                    "name": "Stainless Steel Tumbler",
+                    "image": "https://images.kirklands.com/is/image/Kirklands/223025?hei=300&qlt=85,1&wid=300&fmt=jpeg&resMode=bicub&op_sharpen=1",
+                    "description": "Double-wall insulated stainless steel tumbler.",
+                    "price": 12.99
+                },
+                {
+                    "name": "Ceramic Butter Dish",
+                    "image": "https://a.1stdibscdn.com/12-elaborate-gilt-encrusted-cobalt-blue-enamel-presentation-or-dinner-plates-for-sale/f_17272/f_394542021714164008013/f_39454202_1714164009014_bg_processed.jpg?width=240",
+                    "description": "Elegant ceramic butter dish.",
+                    "price": 15.99
+                },
+                {
+                    "name": "Elegant Gravy Boat",
+                    "image": "https://media.gq.com/photos/66183d2f67a13d791a887ed2/3:4/w_748,c_limit/Layer_2.jpg",
+                    "description": "Beautifully designed gravy boat.",
+                    "price": 17.99
+                },
+                {
+                    "name": "Modern Soup Bowls",
+                    "image": "https://media.architecturaldigest.com/photos/6633a01b47a073c048100dac/3:4/w_748,c_limit/Corelle%20Vitrelle%20City%20Block%2018-Piece%20Dinnerware%20Set.jpeg",
+                    "description": "Set of 4 modern design soup bowls.",
+                    "price": 20.99
+                },
+                {
+                    "name": "Chic Snack Plates",
+                    "image": "https://nypost.com/wp-content/uploads/sites/2/2022/03/Lenox.jpg?quality=90&strip=all&w=1024",
+                    "description": "Set of 6 chic snack plates.",
+                    "price": 25.99
+                },
+                {
+                    "name": "Glass Carafe",
+                    "image": "https://media.architecturaldigest.com/photos/663a9b5cdf765034a19e1de5/3:4/w_748,c_limit/Hawkins%20New%20York%20Ceramic%20Dinnerware.jpeg",
+                    "description": "Elegant glass carafe for beverages.",
+                    "price": 16.99
+                },
+                {
+                    "name": "Porcelain Pasta Bowls",
+                    "image": "https://media.gq.com/photos/66184352e4d63c3f4dc46377/3:4/w_748,c_limit/Jono%20Pandolfi%20Dinnerware.jpg",
+                    "description": "Set of 4 porcelain pasta bowls.",
+                    "price": 28.99
+                }
+            ]
+        }
+    ]
+}
