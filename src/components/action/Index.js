@@ -5,9 +5,9 @@ export const setProducts = (item) => {
     }
 }
 
-export const selectProduct = (product) => {
+export const selectProduct = (id) => {
     return {
         type: "SELECT_PRODUCT",
-        payload: product
+        payload: id
     }
 }

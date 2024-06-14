@@ -1,15 +1,15 @@
 import React from 'react'
 import { useSelector } from 'react-redux'
-import AddCart from '../button/AddCart'
 import { NavLink } from 'react-router-dom'
+import AddCart from '../../home/button/AddCart'
 
-function NewArrival() {
+function SimilarProduct() {
     const newProduct = useSelector((state) => state.allProduct.Product.categories[1])
-    // console.log(newProduct);
+
 
     return (
         <div className='my-4'>
-            <h1 className='my-4 font-serif text-4xl w-full text-center'>NEW ARRIVAL</h1>
+            <h1 className='my-8 font-serif text-4xl mx-20'>SIMILAR PRODUCTS</h1>
             <div className='flex flex-wrap justify-evenly'>
                 {
                     newProduct.items.slice(0, 4).map((productItem, id) => {
@@ -31,4 +31,4 @@ function NewArrival() {
     )
 }
 
-export default NewArrival
+export default SimilarProduct

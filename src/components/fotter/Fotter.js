@@ -1,6 +1,6 @@
 import React from 'react';
 import logo from '../image/crokpot.png';
-import '../button/getStart.css';
+import '../home/button/getStart.css';
 
 function Fotter() {
     return (

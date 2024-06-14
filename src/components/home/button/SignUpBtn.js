@@ -49,7 +49,7 @@ function SignUp() {
                     </span>
                     <span
                         class="relative w-full px-20 text-left transition-colors duration-200 ease-in-out group-hover:text-white dark:group-hover:text-gray-200"
-                    >Sign Up</span
+                    >Subscribe</span
                     >
                 </div>
             </div>

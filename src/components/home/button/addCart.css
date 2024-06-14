@@ -16,6 +16,7 @@
 
   .CartBtnItem:hover {
     background-color: brown;
+    border: 1px solid white;
   }
   
   .IconContainerItem {

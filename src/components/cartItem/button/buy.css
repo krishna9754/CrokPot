@@ -1,0 +1,37 @@
+.buyBtn {
+    cursor: pointer;
+    margin-top: 20px;
+    width: 100%;
+    font-weight: 700;
+    font-family: Helvetica,"sans-serif";
+    transition: all .2s;
+    padding: 8px 20px;
+    border-radius: 2px;
+    border: 1px solid black;
+    display: flex;
+    align-items: center;
+    overflow-x: hidden;
+    font-size: 15px;
+  }
+  
+  .buyBtn:hover {
+    background: rgb(224, 156, 53);
+    color: white;
+    border: 1px solid white;
+  }
+  
+  .buyBtn > svg {
+    width: 34px;
+    /* margin-left: 10px; */
+    transition: transform .3s ease-in-out;
+  }
+  
+  .buyBtn:hover svg {
+    transform: translateX(100px);
+  }
+  
+  .buyBtn:active {
+    transform: scale(0.95);
+  }
+  
+  

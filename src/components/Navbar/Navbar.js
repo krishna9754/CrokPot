@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import logo from '../image/crokpot.png';
-import Cart from '../cart/Cart';
+import Cart from '../home/cart/Cart';
+
 import { FaBars, FaTimes } from 'react-icons/fa';
 
 function Navbar() {
@@ -26,7 +27,7 @@ function Navbar() {
                         </div>
                     </div>
                     <div>
-                        <Cart />
+                        <a href='/login'><Cart /></a>
                     </div>
 
                     {/* Menu Icon for Mobile View */}

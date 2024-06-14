@@ -4,9 +4,11 @@ import './shop.css'
 function Shop() {
     return (
         <div>
-            <button className='Shop'> 
-                Shop Now
-            </button>
+            <a href='/shop'>
+                <button className='Shop'>
+                    Shop Now
+                </button>
+            </a>
         </div>
     )
 }

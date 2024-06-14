@@ -1,5 +1,5 @@
 import React from 'react';
-import heroImg from '../image/Hero.jpg';
+import heroImg from '../../image/Hero.jpg';
 import Shop from '../button/Shop';
 
 function Hero() {
